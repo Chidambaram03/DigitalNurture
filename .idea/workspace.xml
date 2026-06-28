@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d800d693-66f1-45f4-909a-fc13963d1404" name="Changes" comment="" />
+    <list default="true" id="d800d693-66f1-45f4-909a-fc13963d1404" name="Changes" comment="Completed Design patterns,DSA and PL/SQL exercises">
+      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example1/ControlStructures.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example2/ErrorHandling.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example3/StoredProcedures.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example4/Functions.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example5/Triggers.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example6/Cursors.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example6/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example7/Packages.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example7/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +36,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Chidambaram03&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Chidambaram03/DigitalNurture.git&quot;,
+    &quot;accountId&quot;: &quot;0381d976-3399-4c8c-8034-5489675f80aa&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -39,6 +67,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -91,12 +120,26 @@
       <workItem from="1781950300101" duration="30000" />
       <workItem from="1782133614612" duration="71000" />
       <workItem from="1782139322374" duration="2807000" />
-      <workItem from="1782223333327" duration="485000" />
+      <workItem from="1782223333327" duration="1034000" />
+      <workItem from="1782317216145" duration="2198000" />
     </task>
+    <task id="LOCAL-00001" summary="Completed Design patterns,DSA and PL/SQL exercises">
+      <option name="closed" value="true" />
+      <created>1782223967652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782223967653</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed Design patterns,DSA and PL/SQL exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Design patterns,DSA and PL/SQL exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
