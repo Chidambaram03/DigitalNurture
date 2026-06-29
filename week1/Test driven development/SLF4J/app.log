@@ -1,0 +1,4 @@
+18:48:17.801 [main] DEBUG org.example.AppenderExample - This is a DEBUG message
+18:48:17.802 [main] INFO  org.example.AppenderExample - This is an INFO message
+18:48:17.802 [main] WARN  org.example.AppenderExample - This is a WARNING message
+18:48:17.802 [main] ERROR org.example.AppenderExample - This is an ERROR message
