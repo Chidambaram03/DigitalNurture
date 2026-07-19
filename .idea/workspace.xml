@@ -4,22 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d800d693-66f1-45f4-909a-fc13963d1404" name="Changes" comment="Completed Design patterns,DSA and PL/SQL exercises">
-      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example1/ControlStructures.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example2/ErrorHandling.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example3/StoredProcedures.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example4/Functions.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example4/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example5/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example5/Triggers.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example6/Cursors.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example6/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example7/Packages.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/PL_SQL Programming/Example7/README.md" afterDir="false" />
+    <list default="true" id="d800d693-66f1-45f4-909a-fc13963d1404" name="Changes" comment="Week 4- Microservices with SpringBoot 3 and SpringCloud">
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 10/officespacerentalapp/public/Office.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 11/eventexamplesapp/src/Components/CurrencyConvertor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 12/ticketbookingapp/src/GuestPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 12/ticketbookingapp/src/UserPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 13/bloggerapp/src/BlogDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 13/bloggerapp/src/BookDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 13/bloggerapp/src/CourseDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 2/studentapp/src/Components/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 2/studentapp/src/Components/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 2/studentapp/src/Components/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 3/scorecalculatorapp/src/Components/CalculateScore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 3/scorecalculatorapp/src/Stylesheets/mystyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 4/blogapp/src/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 4/blogapp/src/Posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 9/cricketapp/src/Components/IndianPlayers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 9/cricketapp/src/Components/ListofPlayers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/Spring Data JPA with Spring Boot,Hibernate/orm-learn/src/main/java/com/cognizant/ormlearn/OrmLearnApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/Spring Data JPA with Spring Boot,Hibernate/orm-learn/src/main/java/com/cognizant/ormlearn/OrmLearnApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/Spring Data JPA with Spring Boot,Hibernate/orm-learn/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/week2/Spring Data JPA with Spring Boot,Hibernate/orm-learn/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 1/myfirstreact/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 1/myfirstreact/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 10/officespacerentalapp/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 10/officespacerentalapp/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 10/officespacerentalapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 10/officespacerentalapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 11/eventexamplesapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 11/eventexamplesapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 12/ticketbookingapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 12/ticketbookingapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 13/bloggerapp/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 13/bloggerapp/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 13/bloggerapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 13/bloggerapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 2/studentapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 2/studentapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 3/scorecalculatorapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 3/scorecalculatorapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 4/blogapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 4/blogapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 4/blogapp/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 4/blogapp/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 9/cricketapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 9/cricketapp/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,39 +69,105 @@
     <commands />
     <urls />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000000000009" />
+      <entry key="S2" value="1.0005117273590638" />
+      <entry key="S5" value="1.159197597284476" />
+      <entry key="S10" value="2.5675534114424385" />
+      <entry key="S30" value="11.142405644319537" />
+      <entry key="S60" value="18.415935371717723" />
+      <entry key="M2" value="24.128580712004137" />
+      <entry key="M5" value="28.54168493457608" />
+      <entry key="M10" value="30.214252083231976" />
+      <entry key="M15" value="30.7965274781358" />
+      <entry key="M30" value="31.391674072512128" />
+      <entry key="H1" value="31.694170057986323" />
+      <entry key="H2" value="31.84666581230118" />
+      <entry key="H4" value="31.923227791262924" />
+      <entry key="D1" value="31.987190006135428" />
+      <entry key="W1" value="31.99816964234962" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9659363289248455" />
+      <entry key="MS500" value="0.9930924954370449" />
+      <entry key="S2" value="0.9987796681133281" />
+      <entry key="S5" value="1.158363141766814" />
+      <entry key="S10" value="2.566433547527069" />
+      <entry key="S30" value="11.140488712019799" />
+      <entry key="S60" value="18.414283662684436" />
+      <entry key="M2" value="24.127474440735128" />
+      <entry key="M5" value="28.54115419207831" />
+      <entry key="M10" value="30.213969831932083" />
+      <entry key="M15" value="30.796335380024306" />
+      <entry key="M30" value="31.391576011362897" />
+      <entry key="H1" value="31.694120515423737" />
+      <entry key="H2" value="31.846640911885494" />
+      <entry key="H4" value="31.923215308628244" />
+      <entry key="D1" value="31.987187921180368" />
+      <entry key="W1" value="31.998169344388142" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0,
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3FMXjFqgbwEGCNLhqsNGOJCXAM6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.SingletonTest.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/chidambaramum/DigitalNurture",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/chidambaramum/Downloads/DigitalNurture/src/Main.java",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.SingletonTest.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/chidambaramum/DigitalNurture&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/chidambaramum/Downloads/DigitalNurture/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="SingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SingletonTest" />
@@ -102,8 +185,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.26222.65" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.26222.65" />
       </set>
     </attachedChunks>
   </component>
@@ -122,6 +205,15 @@
       <workItem from="1782139322374" duration="2807000" />
       <workItem from="1782223333327" duration="1034000" />
       <workItem from="1782317216145" duration="2198000" />
+      <workItem from="1782631388406" duration="1691000" />
+      <workItem from="1782738453184" duration="5224000" />
+      <workItem from="1782832344849" duration="5811000" />
+      <workItem from="1782995938726" duration="543000" />
+      <workItem from="1783003651805" duration="2552000" />
+      <workItem from="1783153156485" duration="24000" />
+      <workItem from="1783159668502" duration="130000" />
+      <workItem from="1783159825192" duration="1290000" />
+      <workItem from="1783526447116" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="Completed Design patterns,DSA and PL/SQL exercises">
       <option name="closed" value="true" />
@@ -131,7 +223,79 @@
       <option name="project" value="LOCAL" />
       <updated>1782223967653</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed Design patterns,DSA and PL/SQL exercises">
+      <option name="closed" value="true" />
+      <created>1782631394661</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782631394661</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Completed Design patterns,DSA,PL/SQL exercises and TestDrivenDevelopment">
+      <option name="closed" value="true" />
+      <created>1782738520495</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782738520495</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Completed Design patterns,DSA,PL/SQL exercises and TestDrivenDevelopment">
+      <option name="closed" value="true" />
+      <created>1782739220799</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782739220799</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Completed Design patterns,DSA,PL/SQL exercises and TestDrivenDevelopment">
+      <option name="closed" value="true" />
+      <created>1782832378214</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782832378214</updated>
+    </task>
+    <task id="LOCAL-00006" summary=" Week 1:Completed Design patterns,DSA,PL/SQL exercises and TestDrivenDevelopment&#10; WeeK 2:Springboot and Maven">
+      <option name="closed" value="true" />
+      <created>1782915383240</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1782915383240</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&#10; WeeK 2:Springboot and Maven, Spring Data JPA with Hibernate">
+      <option name="closed" value="true" />
+      <created>1783003766668</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1783003766668</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&#10; WeeK 2:Springboot and Maven, Spring Data JPA with Hibernate">
+      <option name="closed" value="true" />
+      <created>1783171192087</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1783171192087</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&#10; WeeK 3:HelloWorldRESTService, JWT_AuthenticationService, REST_GetCountryByCountryCode, Spring REST using Spring Boot, spring-learn, SpringCore_LoadCountryXML">
+      <option name="closed" value="true" />
+      <created>1783532827122</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1783532827122</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Week 4- Microservices with SpringBoot 3 and SpringCloud">
+      <option name="closed" value="true" />
+      <created>1783947422965</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1783947422965</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +303,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed Design patterns,DSA and PL/SQL exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Design patterns,DSA and PL/SQL exercises" />
+    <MESSAGE value="Completed Design patterns,DSA,PL/SQL exercises and TestDrivenDevelopment" />
+    <MESSAGE value=" Week 1:Completed Design patterns,DSA,PL/SQL exercises and TestDrivenDevelopment&#10; WeeK 2:Springboot and Maven" />
+    <MESSAGE value="&#10; WeeK 2:Springboot and Maven, Spring Data JPA with Hibernate" />
+    <MESSAGE value="&#10; WeeK 3:HelloWorldRESTService, JWT_AuthenticationService, REST_GetCountryByCountryCode, Spring REST using Spring Boot, spring-learn, SpringCore_LoadCountryXML" />
+    <MESSAGE value="Week 4- Microservices with SpringBoot 3 and SpringCloud" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 4- Microservices with SpringBoot 3 and SpringCloud" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

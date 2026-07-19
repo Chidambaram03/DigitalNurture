@@ -39,7 +39,7 @@ public class OrmLearnApplication {
         List<Country> countries =
                 countryService.getAllCountries();
 
-        LOGGER.debug("countries={}", countries);
+        System.out.println(countries);
 
         LOGGER.info("End");
 

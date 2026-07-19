@@ -2,5 +2,14 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week5/React/Exercise 1/myfirstreact" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week5/React/Exercise 10/officespacerentalapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week5/React/Exercise 11/eventexamplesapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week5/React/Exercise 12/ticketbookingapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week5/React/Exercise 13/bloggerapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week5/React/Exercise 2/studentapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week5/React/Exercise 3/scorecalculatorapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week5/React/Exercise 4/blogapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week5/React/Exercise 9/cricketapp" vcs="Git" />
   </component>
 </project>
