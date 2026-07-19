@@ -10,6 +10,7 @@
     <mapping directory="$PROJECT_DIR$/week5/React/Exercise 2/studentapp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/week5/React/Exercise 3/scorecalculatorapp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/week5/React/Exercise 4/blogapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week5/React/Exercise 5/cohortdashboard" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/week5/React/Exercise 9/cricketapp" vcs="Git" />
   </component>
 </project>

@@ -1,0 +1,28 @@
+.container{
+    text-align:center;
+    margin-top:60px;
+}
+
+h1{
+    color:red;
+}
+
+.name{
+    color:blue;
+    font-weight:bold;
+}
+
+.school{
+    color:deeppink;
+    font-weight:bold;
+}
+
+.total{
+    color:purple;
+    font-weight:bold;
+}
+
+.score{
+    color:green;
+    font-weight:bold;
+}

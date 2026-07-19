@@ -4,39 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d800d693-66f1-45f4-909a-fc13963d1404" name="Changes" comment="Week 4- Microservices with SpringBoot 3 and SpringCloud">
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 10/officespacerentalapp/public/Office.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 11/eventexamplesapp/src/Components/CurrencyConvertor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 12/ticketbookingapp/src/GuestPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 12/ticketbookingapp/src/UserPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 13/bloggerapp/src/BlogDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 13/bloggerapp/src/BookDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 13/bloggerapp/src/CourseDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 2/studentapp/src/Components/About.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 2/studentapp/src/Components/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 2/studentapp/src/Components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 3/scorecalculatorapp/src/Components/CalculateScore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 3/scorecalculatorapp/src/Stylesheets/mystyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 4/blogapp/src/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 4/blogapp/src/Posts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 9/cricketapp/src/Components/IndianPlayers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/React/Exercise 9/cricketapp/src/Components/ListofPlayers.js" afterDir="false" />
+    <list default="true" id="d800d693-66f1-45f4-909a-fc13963d1404" name="Changes" comment="Week 5: React">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/Spring Data JPA with Spring Boot,Hibernate/orm-learn/src/main/java/com/cognizant/ormlearn/OrmLearnApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/Spring Data JPA with Spring Boot,Hibernate/orm-learn/src/main/java/com/cognizant/ormlearn/OrmLearnApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/Spring Data JPA with Spring Boot,Hibernate/orm-learn/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/week2/Spring Data JPA with Spring Boot,Hibernate/orm-learn/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 1/myfirstreact/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 1/myfirstreact/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 10/officespacerentalapp/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 10/officespacerentalapp/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 10/officespacerentalapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 10/officespacerentalapp/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 11/eventexamplesapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 11/eventexamplesapp/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 12/ticketbookingapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 12/ticketbookingapp/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 13/bloggerapp/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 13/bloggerapp/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 13/bloggerapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 13/bloggerapp/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 2/studentapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 2/studentapp/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 3/scorecalculatorapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 3/scorecalculatorapp/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 4/blogapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 4/blogapp/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 4/blogapp/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 4/blogapp/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/React/Exercise 9/cricketapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/week5/React/Exercise 9/cricketapp/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/week5/React/Exercise 1/myfirstreact" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -71,23 +41,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.000000000000009" />
-      <entry key="S2" value="1.0005117273590638" />
-      <entry key="S5" value="1.159197597284476" />
-      <entry key="S10" value="2.5675534114424385" />
-      <entry key="S30" value="11.142405644319537" />
-      <entry key="S60" value="18.415935371717723" />
-      <entry key="M2" value="24.128580712004137" />
-      <entry key="M5" value="28.54168493457608" />
-      <entry key="M10" value="30.214252083231976" />
-      <entry key="M15" value="30.7965274781358" />
-      <entry key="M30" value="31.391674072512128" />
-      <entry key="H1" value="31.694170057986323" />
-      <entry key="H2" value="31.84666581230118" />
-      <entry key="H4" value="31.923227791262924" />
-      <entry key="D1" value="31.987190006135428" />
-      <entry key="W1" value="31.99816964234962" />
+      <entry key="MS100" value="1.000534324308288" />
+      <entry key="MS500" value="1.2389711207536265" />
+      <entry key="S2" value="2.394892832888041" />
+      <entry key="S5" value="3.843010122309194" />
+      <entry key="S10" value="5.653614067544826" />
+      <entry key="S30" value="14.15075688355017" />
+      <entry key="S60" value="21.825153171697583" />
+      <entry key="M2" value="28.094681733517127" />
+      <entry key="M5" value="33.053516574184236" />
+      <entry key="M10" value="34.95593993451765" />
+      <entry key="M15" value="35.62101006729657" />
+      <entry key="M30" value="36.30222227826751" />
+      <entry key="H1" value="36.64901353207822" />
+      <entry key="H2" value="36.82397895917954" />
+      <entry key="H4" value="36.91185709969107" />
+      <entry key="D1" value="36.98529109405632" />
+      <entry key="W1" value="36.99789827608139" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -109,23 +79,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9659363289248455" />
-      <entry key="MS500" value="0.9930924954370449" />
-      <entry key="S2" value="0.9987796681133281" />
-      <entry key="S5" value="1.158363141766814" />
-      <entry key="S10" value="2.566433547527069" />
-      <entry key="S30" value="11.140488712019799" />
-      <entry key="S60" value="18.414283662684436" />
-      <entry key="M2" value="24.127474440735128" />
-      <entry key="M5" value="28.54115419207831" />
-      <entry key="M10" value="30.213969831932083" />
-      <entry key="M15" value="30.796335380024306" />
-      <entry key="M30" value="31.391576011362897" />
-      <entry key="H1" value="31.694120515423737" />
-      <entry key="H2" value="31.846640911885494" />
-      <entry key="H4" value="31.923215308628244" />
-      <entry key="D1" value="31.987187921180368" />
-      <entry key="W1" value="31.998169344388142" />
+      <entry key="MS100" value="0.7960598118197506" />
+      <entry key="MS500" value="1.1932348019181578" />
+      <entry key="S2" value="2.3807087075559736" />
+      <entry key="S5" value="3.8350991706150213" />
+      <entry key="S10" value="5.648387644746704" />
+      <entry key="S30" value="14.147375286543872" />
+      <entry key="S60" value="21.8227189368103" />
+      <entry key="M2" value="28.093154767385144" />
+      <entry key="M5" value="33.05280633966362" />
+      <entry key="M10" value="34.95556558895954" />
+      <entry key="M15" value="35.62075600963271" />
+      <entry key="M30" value="36.30209294460781" />
+      <entry key="H1" value="36.64894827794133" />
+      <entry key="H2" value="36.8239461838742" />
+      <entry key="H4" value="36.91184067480146" />
+      <entry key="D1" value="36.98528835138777" />
+      <entry key="W1" value="36.99789788414436" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -143,31 +113,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.SingletonTest.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/chidambaramum/DigitalNurture&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/chidambaramum/Downloads/DigitalNurture/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SingletonTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/chidambaramum/DigitalNurture",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/chidambaramum/Downloads/DigitalNurture/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="SingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SingletonTest" />
@@ -295,7 +265,23 @@
       <option name="project" value="LOCAL" />
       <updated>1783947422965</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Week 5: React">
+      <option name="closed" value="true" />
+      <created>1784446915522</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1784446915522</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Week 5: React">
+      <option name="closed" value="true" />
+      <created>1784446966520</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1784446966520</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +294,8 @@
     <MESSAGE value="&#10; WeeK 2:Springboot and Maven, Spring Data JPA with Hibernate" />
     <MESSAGE value="&#10; WeeK 3:HelloWorldRESTService, JWT_AuthenticationService, REST_GetCountryByCountryCode, Spring REST using Spring Boot, spring-learn, SpringCore_LoadCountryXML" />
     <MESSAGE value="Week 4- Microservices with SpringBoot 3 and SpringCloud" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 4- Microservices with SpringBoot 3 and SpringCloud" />
+    <MESSAGE value="Week 5: React" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 5: React" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
